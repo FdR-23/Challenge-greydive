@@ -21,8 +21,8 @@ En cuanto a diseño, puede ser igual al del ejemplo o distinto. Como prefieras.
 
 <p align="left"><strong>Para Instalación de Dependencias:</strong></p>
 <h5>
- Clonar este repositorio (`https://github.com/FdR-23/Challenge-greydive`)
- 
+ Clonar este repositorio (https://github.com/FdR-23/Challenge-greydive)
+
 ```bash
  cd challenge_greydive
  •  npm install
