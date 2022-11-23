@@ -24,7 +24,7 @@ En cuanto a diseño, puede ser igual al del ejemplo o distinto. Como prefieras.
  Clonar este repositorio (`https://github.com/FdR-23/Challenge-greydive`)
  
 ```bash
- cd challenge-rappi
+ cd challenge_greydive
  •  npm install
  •  npm run start
  ```
